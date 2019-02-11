@@ -1,0 +1,39 @@
+{
+  "name": "react-native-select-multiple",
+  "version": "1.2.0",
+  "description": "A customiseable ListView that allows you to select multiple rows",
+  "main": "src/SelectMultiple.js",
+  "scripts": {
+    "test": "standard && tape test/*.test.js"
+  },
+  "keywords": [
+    "select",
+    "multiple",
+    "picker",
+    "select2",
+    "react",
+    "native"
+  ],
+  "author": "TABLEFLIP",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/react-native-select-multiple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/react-native-select-multiple/issues"
+  },
+  "homepage": "https://github.com/tableflip/react-native-select-multiple#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "reify": "^0.12.3",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}

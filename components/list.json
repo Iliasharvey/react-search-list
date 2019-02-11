@@ -1,0 +1,81 @@
+[ 
+  {
+    name: "Surinamer",
+    subtitle: "Nonganda",
+    data: "Extra Data",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "Banaan",
+    subtitle: "Amsterdad",
+    data: "Hoi ik ben banaan!",
+    avatar_url: "https://media.apnarm.net.au/media/images/2017/10/27/imagev1731006674e03c04fb1c1b2c0030d2895-kne29a0sc2909sas5p2_ct677x380.jpg",
+  },{
+    name: "willem",
+    subtitle: "bananen eiland",
+    avatar_url: "https://20401z3eigij1ugd3g2szg83-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/selfie-psuDOTedu.jpg",
+  },{
+    name: "Marielle",
+    subtitle: "blol",
+    avatar_url: "https://thechive.files.wordpress.com/2017/07/4c98aaa52025a6ba1cb6838f55db4046.jpg?quality=85&strip=info&w=600",
+  },{
+    name: "Bas",
+    subtitle: "bananen eiland",
+    avatar_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4_9IA2xABVqCr-wpSlvPaheYINgCLqRvFFaEdbZpEjFrKqrA",
+  },{
+    name: "Gerrit",
+    subtitle: "ghana",
+    avatar_url: "http://im.rediff.com/getahead/2017/dec/14wu-yongning-extreme-selfie.jpg",
+  },{
+    name: "Lars",
+    subtitle: "blol",
+    avatar_url: "https://ugc.reveliststatic.com/gen/constrain/640/640/80/2018/03/14/16/a3/kw/ph488juk0s2qbwe.jpg",
+  },{
+    name: "Mario",
+    subtitle: "bananen eiland",
+    avatar_url: "http://www.gentinettafilm.ch/selfies_files/gentinettafilm-selfies-06.jpg",
+  },{
+    name: "nulieto",
+    subtitle: "ghana",
+    avatar_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bYeOieXAJh37EV29q8WI8OfcPgHg8ZdFW-lmnEdPpZs9m3zs",
+  },{
+    name: "jason",
+    subtitle: "blol",
+    avatar_url: "https://i.dailymail.co.uk/1s/2018/11/22/16/6523850-0-image-a-33_1542904399659.jpg",
+  },{
+    name: "chantal",
+    subtitle: "bananen eiland",
+    avatar_url: "https://www.sohh.com/wp-content/uploads/2018/04/DJ-Khaled-759x500.jpg",
+  },{
+    name: "abraham",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "vanessa",
+    subtitle: "blol",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "leo",
+    subtitle: "bananen eiland",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "joelle",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "denzel",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "daniel",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "zwaffelo",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "daisy",
+    subtitle: "ghana",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  }
+]
