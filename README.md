@@ -14,7 +14,7 @@ yarn add react-native-select-list-easy
 
 ```js
 import React, {Component} from 'react';
-import Search from 'search-all-list-comp'
+import Search from 'react-native-select-list-easy'
 
 type Props = {};
 
