@@ -52,6 +52,27 @@ export default class App extends Component<Props> {
   }
 ```
 
+## List.json example (keys are changeable to fit your own list)
+```js
+[ 
+  {
+    name: "Natalie",
+    subtitle: "United States",
+    data: "Extra Data",
+    avatar_url: "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+  },{
+    name: "Bianca",
+    subtitle: "Australia",
+    data: "Hoi ik ben banaan!",
+    avatar_url: "https://media.apnarm.net.au/media/images/2017/10/27/imagev1731006674e03c04fb1c1b2c0030d2895-kne29a0sc2909sas5p2_ct677x380.jpg",
+  },{
+    name: "Willem",
+    subtitle: "The Netherlands",
+    data: "haha yoo ik  ben willem gap!",
+    avatar_url: "https://20401z3eigij1ugd3g2szg83-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/selfie-psuDOTedu.jpg",
+  }
+  ]
+  ```
 
 ## Properties
 
