@@ -9,7 +9,7 @@ A customizeable search/select list & it's costumizable to your own liking.
 or
 
 `$ yarn add react-native-search-select-list`
-```
+
 
 ## Example
 
