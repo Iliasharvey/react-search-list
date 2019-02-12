@@ -4,11 +4,16 @@ A customizeable search/select list & it's costumizable to your own liking.
 
 ## Getting started
 
-`$ npm install react-native-search-select-list --save`
+`npm install react-native-search-select-list --save`
 
 or
 
-`$ yarn add react-native-search-select-list`
+`yarn add react-native-search-select-list`
+
+and
+
+`react-native link react-native-vector-icons`
+
 
 
 ## Example
