@@ -2,6 +2,14 @@
 
 A customizeable search list.
 
+```
+npm i react-native-select-list-easy --save
+```
+or 
+```
+yarn add react-native-select-list-easy
+```
+
 ## Example
 
 ```js
