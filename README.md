@@ -20,7 +20,7 @@ and
 
 ```js
 import React, {Component} from 'react';
-import Search from 'react-native-select-list-easy'
+import Search from 'react-native-search-select-list'
 
 type Props = {};
 
