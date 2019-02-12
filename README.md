@@ -1,6 +1,6 @@
 # react-native-search-select-list
 
-## A customizeable search/select list & it's costumizable to your own liking.
+# A customizeable search/select list & it's costumizable to your own liking.
 
 ```
 npm i react-native-select-list-easy --save
